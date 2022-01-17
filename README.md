@@ -16,11 +16,24 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCB00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23FFCB00.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 💡 Learning
+![Dart](https://img.shields.io/badge/Dart-%2300B4DB.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%23FFCB00.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ## 👍 Interests
-![Dart](https://img.shields.io/badge/Dart-%2300B4DB.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%23FFCB00.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23FFCB00.svg?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23FFCB00.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FFCB00.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23FFCB00.svg?style=for-the-badge&logo=django&logoColor=white)
+![Music](https://img.shields.io/badge/Music-%23FFCB00.svg?style=for-the-badge&logo=music&logoColor=white)
+
+
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcbryan1&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcbryan1&theme=solarized_dark)
