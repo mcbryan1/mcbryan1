@@ -26,11 +26,10 @@
 
 
 ## 👍 Interests
-![Express](https://img.shields.io/badge/Express-%23FFCB00.svg?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23FFCB00.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23FFCB00.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23FFCB00.svg?style=for-the-badge&logo=django&logoColor=white)
-![Music](https://img.shields.io/badge/Music-%23FFCB00.svg?style=for-the-badge&logo=music&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodejs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-134721?style=for-the-badge&logo=django&logoColor=white)
 
 
 
