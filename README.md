@@ -1,5 +1,5 @@
 <p align="center">
-![Alt text]<img  src="https://raw.githubusercontent.com/mcbryan1/mcbryan1/master/images/linkedIn.png)" alt="my banner">
+![BANNER!](/home/ff/Desktop/DEV/Clones/mcbryan1/images/linkedIn.png)
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcbryan1&theme=solarized_dark)
