@@ -41,21 +41,21 @@
 
 
 ### 🤝 Connect with me:
-<a href="https://www.github.com/mcbryan1/" target="_blank">
-  <img align="right" alt="Solomon - Github" width="22px" src="http://iconsetc.com/icons-watermarks/flat-rounded-square-white-on-black/social-media/social-media_github/social-media_github_flat-rounded-square-white-on-black_512x512.png"/>
-</a>
+<a href="mailto:solomontetteh.st@outlook.com"><img align="left" src="https://raw.githubusercontent.com/ofoe-fiergbor/ofoe-fiergbor/main/images/email.png" alt="Ofoe Fiergbor | Email" width="21px"/></a>
 <a href="https://twitter.com/mcbryan1z" target="_blank">
-  <img align="right" alt="Solomon - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+  <img align="left" alt="Solomon - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/solomon-tetteh-a7b605190/" target="_blank">
-  <img align="right"  alt="Solomon - LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" width="22px">
+  <img align="left"  alt="Solomon - LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" width="22px">
 </a>
 <a href="https://www.instagram.com/else_coding/" target="_blank">
-  <img align="right" alt="Solomon - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>
+  <img align="left" alt="Solomon - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>
 </a>
 <a href="https://wa.link/6whkd6" target="_blank">
-  <img align="right" alt="Solomon - WhatsApp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
+  <img align="left" alt="Solomon - WhatsApp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
 </a>
+<br>
+<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcbryan1&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcbryan1&theme=solarized_dark)
