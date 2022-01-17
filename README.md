@@ -32,7 +32,7 @@
 ![Django](https://img.shields.io/badge/Django-134721?style=for-the-badge&logo=django&logoColor=white)
 
 
-## 📚 Platforms
+## 🎆 Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-040608?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCB00.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-181ab5?style=for-the-badge&logo=heroku&logoColor=white)
@@ -40,6 +40,22 @@
 ![Netlify](https://img.shields.io/badge/Netlify-298ee6?style=for-the-badge&logo=netlify&logoColor=white)
 
 
+### 🤝 Connect with me:
+<a href="https://www.github.com/mcbryan1/" target="_blank">
+  <img align="right" alt="Solomon - Github" width="22px" src="http://iconsetc.com/icons-watermarks/flat-rounded-square-white-on-black/social-media/social-media_github/social-media_github_flat-rounded-square-white-on-black_512x512.png"/>
+</a>
+<a href="https://twitter.com/mcbryan1z" target="_blank">
+  <img align="right" alt="Solomon - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/solomon-tetteh-a7b605190/" target="_blank">
+  <img align="right"  alt="Solomon - LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" width="22px">
+</a>
+<a href="https://www.instagram.com/else_coding/" target="_blank">
+  <img align="right" alt="Solomon - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>
+</a>
+<a href="https://wa.link/6whkd6" target="_blank">
+  <img align="right" alt="Solomon - WhatsApp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
+</a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcbryan1&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcbryan1&theme=solarized_dark)
