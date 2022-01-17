@@ -32,6 +32,13 @@
 ![Django](https://img.shields.io/badge/Django-134721?style=for-the-badge&logo=django&logoColor=white)
 
 
+## 📚 Platforms
+![GitHub](https://img.shields.io/badge/GitHub-040608?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCB00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-181ab5?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-040608?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-298ee6?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcbryan1&theme=solarized_dark)
