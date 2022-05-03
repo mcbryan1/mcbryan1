@@ -53,9 +53,6 @@
 <a href="https://www.instagram.com/else_coding/" target="_blank">
   <img align="left" alt="Solomon - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>
 </a>
-<a href="https://wa.link/6whkd6" target="_blank">
-  <img align="left" alt="Solomon - WhatsApp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
-</a>
 <br>
 <br>
 
