@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hi <img src="https://github.com/mcbryan1/mcbryan1/blob/2d925c1c6c9ec1a9f3f08155279bddfad482a3e3/images/wave-animated.gif" width="25px">, I'm Sackey Tetteh Solomon (McBryan)</h2>
-<p align="center">Courteous and enthusiastic, I am interested in React and everything in its orbit. I recently began to be fascinated by mobile programming, ie. developing Mobile Apps</p>
+<p align="center">a Frontend Developer based in Ghana. I am also fascinated about Golang</p>
 
 ## 💼 Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
