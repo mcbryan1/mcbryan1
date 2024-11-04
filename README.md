@@ -19,13 +19,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCB00.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-%231572B6.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-
-
-## 💡 Learning
 ![Dart](https://img.shields.io/badge/Dart-%2300B4DB.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%23FFCB00.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-%23007ACC.svg?style=for-the-badge&logo=golang&logoColor=white)
+
 
 ## 👍 Interests
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodejs&logoColor=white)
